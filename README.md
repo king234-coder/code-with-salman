@@ -39,10 +39,10 @@
 - Git & GitHub
 - VS Code
 - Lighthouse (Testing)
--
-- **Author**
+
+ **Author**
 Muhammad Salman Tahir
 
----
+
 
 
