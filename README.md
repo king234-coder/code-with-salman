@@ -39,7 +39,10 @@
 - Git & GitHub
 - VS Code
 - Lighthouse (Testing)
+-
+- **Author**
+Muhammad Salman Tahir
 
 ---
 
-## 📂 Project Structure
+
